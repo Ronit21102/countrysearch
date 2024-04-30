@@ -1,4 +1,3 @@
-import './App.css';
 import Flags from './Components/Flags';
 
 function App() {
